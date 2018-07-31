@@ -237,3 +237,18 @@ input[type=submit] {
   .main-section{width:100%}
 .pic{size: 60%}
 h1{width: 60%}}
+
+/* my code */
+
+body {
+  background: linear-gradient(black, darkred);
+ 
+}
+
+.info {
+  background: linear-gradient(darkred, black);
+}
+
+#logo{background: red;color: black;font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
+
+a{margin: 5px}
